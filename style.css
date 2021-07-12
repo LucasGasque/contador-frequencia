@@ -38,7 +38,7 @@ h2{
 }
 
 textarea{
-    width: 100%;
+    width: calc(100% - 24px);
     padding: 10px;
 }
 
